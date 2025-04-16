@@ -1,0 +1,4 @@
+{
+    "vip": ["vipkey1", "vipkey2"],
+    "free": ["freekey1", "freekey2"]
+}
